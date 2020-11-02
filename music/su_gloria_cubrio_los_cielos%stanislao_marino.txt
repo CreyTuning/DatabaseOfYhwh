@@ -1,0 +1,19 @@
+#titulo_de_la_canción: Su gloria cubrió los cielos
+#nombre_del_artista: Stanislao Marino
+#titulo_del_album: La Iglesia Del Señor
+#genero_musical: coro cristiano
+#tono: Em
+#bpm: 120
+#numero_de_canción: null
+#fecha_de_lanzamiento: null
+#nombre_del_compositor: null
+#nombre_del_productor_musical: null
+#comentarios: null
+
+Su gl{'o', 'Em'}ria cubrió los c{'i', 'B'}elos
+Y la tierra se llenó de su alab{'a', 'Em'}nza
+
+Y el respland{'o', 'Am'}r fue como la l{'u', 'Em'}z;
+Rayos brill{'a', 'B'}ntes salieron de sus m{'a', 'Em'}nos
+
+y ahí est{'a', 'B'}ba escondido su pod{'e', 'Em'}r.
