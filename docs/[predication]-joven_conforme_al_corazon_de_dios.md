@@ -1,5 +1,4 @@
 # Joven conforme al corazón de Dios
-##### *publicado a la‎(s)‎  7 jul. 2012 19:09  por Rahaim Yahacov*
  
 **1 Samuel 16: 5-13 (Pastor Demesio Santiago)**
 
@@ -88,3 +87,5 @@ Los pulpitos de las Iglesias se están quedando vacios y nuestros jóvenes hoy q
 Aun hay almas sin Cristo Sal a la calle, deja tu comodidad deja la televisión, deja el celular, deja la computadora, deja ipod, deja el ipad, deja el blacKberry, deja las amistades un momento y sal a la calle y gritale al mundo que si se puede ser cristiano con convicciones, gritales que Cristo Salva, que Cristo perdona, que Cristo restaura vidas, que Cristo libera de la esclavitud del pecado de las drogas y del alcohol. Del sexo ilícito.  
   
 Levantemos una generación conforme al corazón de Dios, por que la gente se esta perdiendo, sal de tu asiento y entregale tu corazón a Dios , todo esta listo, la gente te esta esperando, para hacer una ruta, trae gente a la Iglesia, invita otros jóvenes. El infierno esta mas ardiente que nunca , rescata uno mas para el cielo.
+
+*publicado a la‎(s)‎  7 jul. 2012 19:09  por Rahaim Yahacov*
