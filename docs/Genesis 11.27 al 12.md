@@ -9,7 +9,7 @@
 ## **1. Decendencia de Taré**
 
 En la genealogía de Sem **(Génesis 11:24)**, se hace una mención especial de **Taré**, quien era *padre de Abram*.
-    
+
     Taré
       |-- Abram (con Sarai)
       |-- Nacor (con Milca)
@@ -30,7 +30,7 @@ Es como si Dios le estuviere diciendo que debía irse de todo lo que le era cono
 
 ### **2.2 El padre de Abram era un hacedor de ídolos.**
 
-    (Jos 24:2) “Y dijo Josué a todo el pueblo: Así dice Jehová, Dios de Israel: Vuestros padres habitaron antiguamente al otro lado del río, esto es, Taré, padre de Abraham y de Nacor; y servían a dioses extraños.”
+> **Jos 24:2**: "Y dijo Josué a todo el pueblo: Así dice Jehová, Dios de Israel: Vuestros padres habitaron antiguamente al otro lado del río, esto es, Taré, padre de Abraham y de Nacor; y servían a dioses extraños."
 
 ### **2.3 ¿A dónde debía ir?**
 No lo sabía, pues Dios no se lo había revelado. Todo lo que sabía es que iría a un lugar que el Señor le iba a mostrar.
@@ -52,7 +52,7 @@ Aunque Dios apartó a Abram y su descendencia de entre todas las familias del 
 
 ¿Qué hizo Abram? ¿Respondió al llamado de Dios? 
 
-    (Gn. 12:4) “Y se fue Abram, como Jehová le dijo; y Lot fue con él. Y era Abram de edad de setenta y cinco años cuando salió de Harán.”
+> **Gn. 12:4** "Y se fue Abram, como Jehová le dijo; y Lot fue con él. Y era Abram de edad de setenta y cinco años cuando salió de Harán."
 
 A los ojos de Dios, allí comenzaba su vida. El Señor le dio cien años más de vida; pero no sólo eso sino un propósito de vida enorme, que trascendería las generaciones.
 
@@ -88,7 +88,7 @@ Luego que el Señor le mostrara a Abram la Tierra Prometida, él no se quedó al
 
 ## **7. Hambre en la tierra**
 
-    (Gén 12:10) Pero hubo hambre en la tierra, y Abram descendió a Egipto para peregrinar allá, pues la hambruna era severa en la tierra.
+> **Gén 12:10** "Pero hubo hambre en la tierra, y Abram descendió a Egipto para peregrinar allá, pues la hambruna era severa en la tierra."
 
 ### **7.1 ¿Que es subir y descender?**
 
