@@ -1,4 +1,4 @@
-# **Historias En Orden Bíblico**
+# **Historias en orden Bíblico**
 
 ## **Antiguo Testamento**
 
