@@ -10,13 +10,7 @@
 
 En la genealogía de Sem **(Génesis 11:24)**, se hace una mención especial de **Taré**, quien era *padre de Abram*.
 
-    Taré
-      |-- Abram (con Sarai)
-      |-- Nacor (con Milca)
-      |-- Haran
-          |-- Lot
-          |-- Milca
-          |-- Isca
+![Decendencia de Taré](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/images/img1.jpg "Decendencia de Taré")
 
 ## **2. Llamado de Abram**
 
