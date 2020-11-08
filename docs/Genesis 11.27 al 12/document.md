@@ -2,8 +2,9 @@
 
 Como mencionamos anteriormente, Abra*m era originario de **Ur de los caldeos** (hoy, cerca de Kuwait)*, pero luego se asentaron en Harán con su padre y un hermano. Pero allí **Dios lo llamó**:
 
-> (Génesis 12:1-3) Y el SEÑOR dijo a Abram: Vete de tu tierra, de entre tus parientes y de la casa de tu padre, a la tierra que yo te mostraré.  (2)  Haré de ti una nación grande, y te bendeciré, y engrandeceré tu nombre, y serás bendición.  (3)  Bendeciré a los que te bendigan, y al que te maldiga, maldeciré. Y en ti serán benditas todas las familias de la tierra. 
+![Llamado de Abram](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/images/img2.JPG "Llamado de Abram")
 
+> (Génesis 12:1-3) Pero Jehová había dicho a Abram: Vete de tu tierra y de tu parentela, y de la casa de tu padre, a la tierra que te mostraré. Y haré de ti una nación grande, y te bendeciré, y engrandeceré tu nombre, y serás bendición. Bendeciré a los que te bendijeren, y a los que te maldijeren maldeciré; y serán benditas en ti todas las familias de la tierra.
 
 ## **Panorama del libro de Génesis**
 
@@ -20,8 +21,6 @@ En la genealogía de Sem **(Génesis 11:24)**, se hace una mención especial de 
 ## **2. Llamado de Abram**
 
 Es como si Dios le estuviere diciendo que debía irse de todo lo que le era conocido y familiar hasta ese momento.
-
-![Llamado de Abram](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/images/img2.JPG "Llamado de Abram")
 
 ### **2.1 ¿De qué debía irse?**
 - de tu tierra 
