@@ -1,0 +1,66 @@
+{
+    "title" : "Letras de Coros",
+    "description" : "Letra de los coros cristianos mas conocidos para la adoracion del Rey de Reyes.",
+    
+    "icon" : "img/icon.jpg",
+    "background" : "img/background.jpg",
+    
+    "type" : "book",
+
+    "index" : [
+        {
+            "title" : "Portada",
+            "description" : "this is the book's cover page",
+            "number" : null,
+            "file" : "pages/coverpage.md",
+            "background" : null,
+            "icon" : null
+        },
+
+        {
+            "title" : "Indice",
+            "description" : "index of my beautiful book",
+            "number" : null,
+            "file" : "pages/index.md",
+            "background" : null,
+            "icon" : null
+        },
+
+        {
+            "title" : "introduccion",
+            "description" : "introduction of my exposition",
+            "number" : null,
+            "file" : "pages/introduction.md",
+            "background" : null,
+            "icon" : null
+        },
+
+        {
+            "title" : "El Amor de Dios",
+            "description" : "The love of God",
+            "number" : 1,
+            "file" : "pages/god_love.md",
+            "background" : null,
+            "icon" : null
+        },
+
+        {
+            "title" : "El perdon de Dios",
+            "description" : "Dios es misericordioso",
+            "number" : 2,
+            "file" : "pages/perdon_de_Dios.md",
+            "background" : null,
+            "icon" : null
+        },
+
+        {
+            "title" : "Conclusion",
+            "description" : "Conclusion final del tema",
+            "number" : null,
+            "file" : "pages/conclusion.md",
+            "background" : null,
+            "icon" : null
+        }
+        
+    ]
+}
