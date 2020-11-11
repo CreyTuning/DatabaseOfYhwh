@@ -1,8 +1,8 @@
 # **Génesis 11:27 al 12**
 
-Como mencionamos anteriormente, Abra*m era originario de **Ur de los caldeos** (hoy, cerca de Kuwait)*, pero luego se asentaron en Harán con su padre y un hermano. Pero allí **Dios lo llamó**:
+Como mencionamos anteriormente, Abram era originario de **Ur de los caldeos** (hoy, cerca de Kuwait), pero luego se asentaron en Harán con su padre y un hermano. Pero allí **Dios lo llamó**:
 
-![Llamado de Abram](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/images/img2.JPG "Llamado de Abram")
+![Llamado de Abram](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/img/img2.JPG "Llamado de Abram")
 
 > (Génesis 12:1-3) Pero Jehová había dicho a Abram: Vete de tu tierra y de tu parentela, y de la casa de tu padre, a la tierra que te mostraré. Y haré de ti una nación grande, y te bendeciré, y engrandeceré tu nombre, y serás bendición. Bendeciré a los que te bendijeren, y a los que te maldijeren maldeciré; y serán benditas en ti todas las familias de la tierra.
 
@@ -16,7 +16,7 @@ Como mencionamos anteriormente, Abra*m era originario de **Ur de los caldeos** (
 
 En la genealogía de Sem **(Génesis 11:24)**, se hace una mención especial de **Taré**, quien era *padre de Abram*.
 
-![Decendencia de Taré](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/images/img1.jpg "Decendencia de Taré")
+![Decendencia de Taré](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/img/img1.jpg "Decendencia de Taré")
 
 ## **2. Llamado de Abram**
 
@@ -65,7 +65,7 @@ Su nombre original era **Sarai** pero Dios lo cambió a **Sara** antes de conced
 
 **Abram** no sabía exactamente a dónde iba.  Pero al entrar en **Canaán**, Dios le reveló que la tierra en donde estaba parado era la **Tierra Prometida**.
 
-![Abram llega a Canaán](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/images/img3.jpg "Abram llega a Canaán")
+![Abram llega a Canaán](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/img/img3.jpg "Abram llega a Canaán")
 
 Este es el mismo lugar donde los **israelitas**, descendientes de Abram, luego van a confirmar el **pacto con Dios**, luego de haber conquistado la **Tierra Prometida**.
 
@@ -86,7 +86,7 @@ Siquem es un valle, pero luego de oír la promesa, Abram subió a un monte cerca
 
 Luego que el Señor le mostrara a Abram la Tierra Prometida, él no se quedó allí. **(Gen. 12:9)**.
 
-![Siguió su camino](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/images/img4.jpg "Siguió su camino")
+![Siguió su camino](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/img/img4.jpg "Siguió su camino")
 
 **El Neguev es el desierto al sur de Israel**; la palabra literalmente significa “árido, reseco”. Para complicar la situación, **hubo hambre en la tierra**, lo cual sucede generalmente como consecuencia de una sequía.
 
@@ -108,7 +108,7 @@ Abram “descendió” a Egipto. Bajó de nivel, pues **no era el lugar donde de
 
 Los egipcios vieron que **Sara era muy hermosa** y fue llevada a la casa del faraón, y por esto Abram recibió ovejas, vacas, asnos, siervos, criadas, asnas y camellos. **(Gen. 12:14-16)**.
 
-![Abram negó a Sara como su esposa](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/images/img5.jpg "Abram negó a Sara como su esposa")
+![Abram negó a Sara como su esposa](https://raw.githubusercontent.com/CreyTuning/DatabaseOfYhwh/master/docs/Genesis%2011.27%20al%2012/img/img5.jpg "Abram negó a Sara como su esposa")
 
 Algunos podrían considerar que Abram fue muy “listo”.  **El problema está cuando uno confía más en la astucia propia que en la protección de Dios**.  Cuando el hombre “mete sus manos” y manipula, las cosas **no suelen salir bien**…
 
