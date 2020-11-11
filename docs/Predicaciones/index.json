@@ -2,8 +2,8 @@
     "title" : "Predicaciones",
     "description" : "Predicaciones de la Palabra de Dios",
     
-    "icon" : "img/icon.jpg",
-    "background" : "img/background.jpg",
+    "icon" : null,
+    "background" : null,
 
     "type" : "document",
     "path" : "document.md"
